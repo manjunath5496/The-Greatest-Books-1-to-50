@@ -11,13 +11,13 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(6).pdf" style="text-decoration:none;">The Sun Also Rises</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(7).pdf" style="text-decoration:none;">Deep Learning with R</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(7).pdf" style="text-decoration:none;">One Hundred Years of Solitude</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(8).pdf" style="text-decoration:none;">Essentials of Metaheuristics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(8).pdf" style="text-decoration:none;">Wuthering Heights</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(9).pdf" style="text-decoration:none;"> From Bricks to Brains: The Embodied Cognitive Science of LEGO Robots </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(9).pdf" style="text-decoration:none;"> Jane Eyre </a></b></li>
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(10).pdf" style="text-decoration:none;">Logic For Computer Science: Foundations of Automatic Theorem Proving </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(10).pdf" style="text-decoration:none;">The Canterbury Tales </a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(11).pdf" style="text-decoration:none;">Life 3.0: Being Human in the Age of Artificial Intelligence </a></b></li>
                                
