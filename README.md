@@ -97,7 +97,7 @@
 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(49).pdf" style="text-decoration:none;">To the Lighthouse</a></b></li>   
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(36).pdf" style="text-decoration:none;">The Trial</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Book-of-the-Thousand-Nights-and-a-Night-Volume-1-10/blob/master/README.md" style="text-decoration:none;">The Book of the Thousand Nights and a Night</a></b></li> 
  
  
  
