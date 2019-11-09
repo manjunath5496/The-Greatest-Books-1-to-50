@@ -71,7 +71,33 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(36).pdf" style="text-decoration:none;">The Trial</a></b></li> 
  
- 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(37).pdf" style="text-decoration:none;"> The Sound and the Fury </a></b></li>   
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(38).pdf" style="text-decoration:none;">Mrs. Dalloway</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(39).pdf" style="text-decoration:none;">Absalom Absalom</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(40).pdf" style="text-decoration:none;">David Copperfield</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(41).pdf" style="text-decoration:none;"> The Catcher in the Rye </a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(42).pdf" style="text-decoration:none;">Heart of Darkness</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(43).pdf" style="text-decoration:none;">Leaves of Grass </a></b></li>
+                               
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(44).pdf" style="text-decoration:none;">The Aeneid</a></b></li>   
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(45).pdf" style="text-decoration:none;">In Search of Lost Time </a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(46).pdf" style="text-decoration:none;">Oedipus the King</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(47).pdf" style="text-decoration:none;">The Red and the Black</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(48).pdf" style="text-decoration:none;"> The Stories of Anton Chekhov</a></b></li>
+
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(49).pdf" style="text-decoration:none;">To the Lighthouse</a></b></li>   
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Books-1-to-50/blob/master/gbb(36).pdf" style="text-decoration:none;">The Trial</a></b></li> 
  
  
  
